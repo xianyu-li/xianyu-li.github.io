@@ -15,32 +15,7 @@ Syntax highlighted code block
 ## Header 2
 ### Header 3
 <!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <meta http-equiv="X-UA-Compatible" content="ie=edge">
-    <title>First HTML Page</title>
-</head>
-<body>
-    <h1>All About Corgis</h1>
-    
-    <ul>
-        <li>
-            <img src="http://placecorgi.com/260/180" >/
-        </li>
-        <li>
-            <img src="http://placecorgi.com/250" >/
-        </li>
-    </ul>
-    <h3>Fun Facts About Corgis</h3>
-    <ol>
-        <li>There are two distinct breeds of corgis.</li>
-        <li>In Welsh legends, fairies rode corgis into battle.</li>
-        <li>Queen Elizabeth II of the UK has had more than 30 corgis.</li>
-    </ol>
-</body>
-</html>
+
 
 - Bulleted
 - List
