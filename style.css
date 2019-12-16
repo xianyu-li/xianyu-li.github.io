@@ -8,7 +8,7 @@ html{
 }
 
 body {
-    background-color: #ffffff
+    background-color: white;
 
 }
 
@@ -61,12 +61,12 @@ a:visited{
     color: inherit;
 }
 
-.img { 
+img { 
     padding: 5px;
     width: 600px;
 }
 
-.img:hover {
+img:hover {
     filter: blur(30);
 }
 
