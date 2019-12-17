@@ -5,17 +5,19 @@ font-family: 'EB Garamond', serif; */
 html{
     font-family: 'Abel', sans-serif;; font-size: 20px;
     font-weight: 300;
+    
 }
 
 body {
-    background-color: white;
+    background-color:#e3b854;
 
 }
 
 h1 {
     text-align: left;
     margin: 10px;
-    
+    color: white;
+
 }
 
 header {
@@ -48,7 +50,7 @@ main {
 }
 
 a:link{
-    color: black;
+    color: white;
     text-decoration: none;
 
 }
@@ -64,6 +66,10 @@ a:visited{
 img { 
     padding: 5px;
     width: 600px;
+    filter: grayscale(20)
+}
+img:hover {
+    filter: grayscale(0)
 }
 
 img:hover {
@@ -71,7 +77,7 @@ img:hover {
 }
 
 p {
-    color:black;
+    color:white;
     font-size: 30px;
     text-transform: uppercase;
     padding-bottom: 50px;
@@ -87,21 +93,16 @@ p {
 
 .h1:hover{
     color: red;
-    text-decoration: none;
 }
 .o1:hover{
     color: orange;
-    text-decoration: none;
 }
 .v1:hover{
     color:yellow;
-    text-decoration: none;
 }
 .e1:hover{
     color:green;
-    text-decoration: none;
 }
 .r1:hover{
     color: blue;
-    text-decoration: none;
 }
