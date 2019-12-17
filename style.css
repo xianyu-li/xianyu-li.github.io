@@ -77,3 +77,31 @@ p {
     padding-bottom: 50px;
 }
 
+.hover-hw{
+    font-family: 'Notable', sans-serif;
+    font-size: 100px;
+    text-align: center;
+    display: flex;
+    justify-content: center;
+}
+
+.h1:hover{
+    color: red;
+    text-decoration: none;
+}
+.o1:hover{
+    color: orange;
+    text-decoration: none;
+}
+.v1:hover{
+    color:yellow;
+    text-decoration: none;
+}
+.e1:hover{
+    color:green;
+    text-decoration: none;
+}
+.r1:hover{
+    color: blue;
+    text-decoration: none;
+}
